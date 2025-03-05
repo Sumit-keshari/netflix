@@ -1,10 +1,10 @@
+import Body from "./Component/Body"
 
-import './App.css'
 function App() {
   return (
-   <div className='font-bold'>
-    hello world!
-   </div>
+    <div >
+      <Body />
+    </div>
   )
 }
 
